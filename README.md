@@ -6,3 +6,5 @@ missing appointments. Reminding and rescheduling appointments can monopolize sta
 A missed medical appointment could pose serious health risks for patients as it could mean the difference between catching a
 disease early on or too late. In addition, an inefficient scheduling process can wreak havoc and raise stress levels for both a 
 health systems’ staff and patients.
+
+Developed using "R"
