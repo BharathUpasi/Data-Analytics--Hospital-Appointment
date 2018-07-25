@@ -7,3 +7,7 @@ disease early on or too late. In addition, an inefficient scheduling process can
 health systems’ staff and patients.
 
 Developed using "R"
+
+Developers
+1. Bharath Upasi
+2. Nirup Shah
